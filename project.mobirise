@@ -43,7 +43,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo01-fondo-amarillo-128x98.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo02-fondo-blanco-128x98.png",
     "noImageResize": ""
   },
   "pages": {
