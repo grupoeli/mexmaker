@@ -1944,9 +1944,9 @@ body {
   }
 }
 .cid-qwU8is89Fl {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #0d1af5;
 }
 .cid-qwU8is89Fl .title {
   margin-bottom: 2rem;
@@ -1969,6 +1969,12 @@ body {
 .cid-qwU8is89Fl .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qwU8is89Fl H2 {
+  color: #ffffff;
+}
+.cid-qwU8is89Fl LABEL {
+  color: #ffffff;
 }
 .cid-qwU4wNrBmt {
   padding-top: 90px;
