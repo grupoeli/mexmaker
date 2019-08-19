@@ -1450,7 +1450,8 @@ body {
 .cid-qwTDWLSdZ0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mexmaker01-894x205.png");
+  background-color: #2b8707;
+  background: linear-gradient(45deg, #2b8707, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-qwTDWLSdZ0 .mbr-figure {
@@ -1472,10 +1473,10 @@ body {
 }
 .cid-qwTDWLSdZ0 .mbr-text,
 .cid-qwTDWLSdZ0 .mbr-section-btn {
-  color: #232323;
+  color: #635a51;
 }
 .cid-qwTDWLSdZ0 B {
-  color: #0d1af5;
+  color: #82786e;
 }
 .cid-qwTIrrJuXL {
   padding-top: 90px;
