@@ -42,7 +42,9 @@
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo01-fondo-amarillo-128x98.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
