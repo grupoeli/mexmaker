@@ -1415,7 +1415,8 @@ body {
 .cid-qwTDXa80kH {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/1-yxinmghpvni5zy67gadbna-600x450.png");
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-qwTDXa80kH .mbr-figure {
@@ -1449,8 +1450,7 @@ body {
 .cid-qwTDWLSdZ0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background-image: url("../../../assets/images/mexmaker01-894x205.png");
 }
 @media (min-width: 992px) {
   .cid-qwTDWLSdZ0 .mbr-figure {
