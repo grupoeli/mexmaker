@@ -1473,10 +1473,13 @@ body {
 .cid-qwTDWLSdZ0 .mbr-section-btn {
   color: #232323;
 }
+.cid-qwTDWLSdZ0 B {
+  color: #0d1af5;
+}
 .cid-qwTIrrJuXL {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #8072c3;
 }
 .cid-qwTIrrJuXL .mbr-section-subtitle {
   color: #767676;
@@ -1581,6 +1584,9 @@ body {
   .cid-qwTIrrJuXL .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-qwTIrrJuXL .mbr-section-title {
+  color: #f1f1f1;
 }
 .cid-qwU0Se3wgU {
   padding-top: 90px;
